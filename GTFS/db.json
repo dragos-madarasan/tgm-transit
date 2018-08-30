@@ -1,0 +1,3318 @@
+{
+  "_default": {},
+  "agency": {
+    "1": {
+      "agency_id": "TLSA",
+      "agency_name": "Transport Local SA",
+      "agency_timezone": "Europe/Bucharest",
+      "agency_url": "http://www.transportlocal.ro"
+    }
+  },
+  "calendar": {
+    "1": {
+      "end_date": "20181231",
+      "friday": 1,
+      "monday": 1,
+      "saturday": 1,
+      "service_id": "FULLW",
+      "start_date": "20100101",
+      "sunday": 1,
+      "thursday": 1,
+      "tuesday": 1,
+      "wednesday": 1
+    },
+    "2": {
+      "end_date": "20181231",
+      "friday": 0,
+      "monday": 0,
+      "saturday": 1,
+      "service_id": "WE",
+      "start_date": "20100101",
+      "sunday": 1,
+      "thursday": 0,
+      "tuesday": 0,
+      "wednesday": 0
+    }
+  },
+  "calendar_dates": {
+    "1": {
+      "date": 20170604,
+      "exception_type": 2,
+      "service_id": "FULLW"
+    }
+  },
+  "fare_attributes": {
+    "1": {
+      "currency_type": "USD",
+      "fare_id": "p",
+      "payment_method": 0,
+      "price": 1.25,
+      "transfer_duration": "",
+      "transfers": 0
+    },
+    "2": {
+      "currency_type": "USD",
+      "fare_id": "a",
+      "payment_method": 0,
+      "price": 5.25,
+      "transfer_duration": "",
+      "transfers": 0
+    }
+  },
+  "fare_rules": {
+    "1": {
+      "contains_id": "",
+      "destination_id": "",
+      "fare_id": "p",
+      "origin_id": "",
+      "route_id": "L44"
+    }
+  },
+  "frequencies": {},
+  "routes": {
+    "1": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Mureseni Sat - Autogara Tranport Local",
+      "route_id": "L01",
+      "route_long_name": "Linia 1",
+      "route_short_name": "1",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "10": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Autogara Transport Local - SMURD",
+      "route_id": "L23",
+      "route_long_name": "Linia 23",
+      "route_short_name": "23",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "11": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Sapientia - Aleea Carpati",
+      "route_id": "L26",
+      "route_long_name": "Linia 26",
+      "route_short_name": "26",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "12": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Combinat - SMURD",
+      "route_id": "L02",
+      "route_long_name": "Linia 2",
+      "route_short_name": "2",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "13": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Sapientia - Spitalul Judetean",
+      "route_id": "L27",
+      "route_long_name": "Linia 27",
+      "route_short_name": "27",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "14": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Tudor - Spitalul Judetean",
+      "route_id": "L30",
+      "route_long_name": "Linia 30",
+      "route_short_name": "30",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "15": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Belvedere - Spitalul Judetean",
+      "route_id": "L30B",
+      "route_long_name": "Linia 30b",
+      "route_short_name": "30B",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "16": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Tudor - Unirii",
+      "route_id": "L32",
+      "route_long_name": "Linia 32",
+      "route_short_name": "32",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "17": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Autogara Tranport Local - Tudor",
+      "route_id": "L43",
+      "route_long_name": "Linia 43",
+      "route_short_name": "43",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "18": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Sapientia - Combinat",
+      "route_id": "L44",
+      "route_long_name": "Linia 44",
+      "route_short_name": "44",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "19": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Mureseni Sat - SMURD",
+      "route_id": "L02B",
+      "route_long_name": "Linia 2B",
+      "route_short_name": "2B",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "2": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Tudor - Unirii",
+      "route_id": "L12",
+      "route_long_name": "Linia 12",
+      "route_short_name": "12",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "20": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Mureseni Sat - SMURD",
+      "route_id": "L02E",
+      "route_long_name": "Linia 2E",
+      "route_short_name": "2E",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "21": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Gara C.F.R - Remetea",
+      "route_id": "L03",
+      "route_long_name": "Linia 3",
+      "route_short_name": "3",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "22": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Combinat - Unirii",
+      "route_id": "L04",
+      "route_long_name": "Linia 4",
+      "route_short_name": "4",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "23": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Mureseni Sat - Tudor",
+      "route_id": "L06",
+      "route_long_name": "Linia 6",
+      "route_short_name": "6",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "24": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Unirii - Spitalul Judetean",
+      "route_id": "L10",
+      "route_long_name": "Linia 10",
+      "route_short_name": "10",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "25": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Intersectia Bardestiului - Clinica de Oncologie",
+      "route_id": "L10B",
+      "route_long_name": "Linia 10B",
+      "route_short_name": "10B",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "3": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Combinat - Aleea Carpati",
+      "route_id": "L14",
+      "route_long_name": "Linia 14",
+      "route_short_name": "14",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "4": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Combinat - Rovinari",
+      "route_id": "L16",
+      "route_long_name": "Linia 16",
+      "route_short_name": "16",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "5": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Combinat - Tudor",
+      "route_id": "L17",
+      "route_long_name": "Linia 17",
+      "route_short_name": "17",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "6": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Combinat - Spitalul Judetean",
+      "route_id": "L18",
+      "route_long_name": "Linia 18",
+      "route_short_name": "18",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "7": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Tudor - SMURD",
+      "route_id": "L19",
+      "route_long_name": "Linia 19",
+      "route_short_name": "19",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "8": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Tudor - Spitalul Judetean",
+      "route_id": "L20",
+      "route_long_name": "Linia 20",
+      "route_short_name": "20",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    },
+    "9": {
+      "agency_id": "TLSA",
+      "route_color": "",
+      "route_desc": "Tudor - Combinat",
+      "route_id": "L21",
+      "route_long_name": "Linia 21",
+      "route_short_name": "21",
+      "route_text_color": "",
+      "route_type": 3,
+      "route_url": ""
+    }
+  },
+  "shapes": {},
+  "stops": {
+    "1": {
+      "stop_desc": "",
+      "stop_id": "S01",
+      "stop_lat": 46.5354145,
+      "stop_lon": 24.5756343,
+      "stop_name": "Macul Rosu",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "10": {
+      "stop_desc": "",
+      "stop_id": "S66",
+      "stop_lat": 46.5239055,
+      "stop_lon": 24.5478471,
+      "stop_name": "ITA",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "100": {
+      "stop_desc": "",
+      "stop_id": "S103",
+      "stop_lat": 46.5758311,
+      "stop_lon": 24.6039912,
+      "stop_name": "Deal Sf. Gheorghe",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "101": {
+      "stop_desc": "",
+      "stop_id": "S23",
+      "stop_lat": 46.5577301,
+      "stop_lon": 24.5758352,
+      "stop_name": "22 Decembrie 1989",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "102": {
+      "stop_desc": "",
+      "stop_id": "S24",
+      "stop_lat": 46.5579219,
+      "stop_lon": 24.5758576,
+      "stop_name": "Secuilor Martiri",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "103": {
+      "stop_desc": "",
+      "stop_id": "S25",
+      "stop_lat": 46.5508261,
+      "stop_lon": 24.573687300000003,
+      "stop_name": "Braseria Universitatii",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "104": {
+      "stop_desc": "",
+      "stop_id": "S26",
+      "stop_lat": 46.5465934,
+      "stop_lon": 24.5693982,
+      "stop_name": "Papiu Ilarian",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "105": {
+      "stop_desc": "",
+      "stop_id": "S27",
+      "stop_lat": 46.5332761,
+      "stop_lon": 24.5883126,
+      "stop_name": "Corina",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "106": {
+      "stop_desc": "",
+      "stop_id": "S28",
+      "stop_lat": 46.551408,
+      "stop_lon": 24.5751479,
+      "stop_name": "Mihai Eminescu",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "107": {
+      "stop_desc": "",
+      "stop_id": "S29",
+      "stop_lat": 46.5542487,
+      "stop_lon": 24.5785868,
+      "stop_name": "Clinica O.R.L.",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "108": {
+      "stop_desc": "",
+      "stop_id": "S03",
+      "stop_lat": 46.5327838,
+      "stop_lon": 24.5591576,
+      "stop_name": "Cosmos",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "109": {
+      "stop_desc": "",
+      "stop_id": "S30",
+      "stop_lat": 46.5475623,
+      "stop_lon": 24.560366,
+      "stop_name": "Evidenta Populatiei",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "11": {
+      "stop_desc": "",
+      "stop_id": "S67",
+      "stop_lat": 46.525685,
+      "stop_lon": 24.5502003,
+      "stop_name": "scoala Generala nr. 11",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "110": {
+      "stop_desc": "",
+      "stop_id": "S31",
+      "stop_lat": 46.5505367,
+      "stop_lon": 24.5560081,
+      "stop_name": "Cocosul De Aur",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "111": {
+      "stop_desc": "",
+      "stop_id": "S104",
+      "stop_lat": 46.5761663,
+      "stop_lon": 24.6049008,
+      "stop_name": "Deal Sf. Gheorghe",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "112": {
+      "stop_desc": "",
+      "stop_id": "S32",
+      "stop_lat": 46.5554754,
+      "stop_lon": 24.5478178,
+      "stop_name": "Podul Mures",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "113": {
+      "stop_desc": "",
+      "stop_id": "S33",
+      "stop_lat": 46.5504267,
+      "stop_lon": 24.5559819,
+      "stop_name": "Electrica",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "114": {
+      "stop_desc": "",
+      "stop_id": "S34",
+      "stop_lat": 46.5588309,
+      "stop_lon": 24.546217,
+      "stop_name": "Decebal",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "115": {
+      "stop_desc": "",
+      "stop_id": "S35",
+      "stop_lat": 46.55677360000001,
+      "stop_lon": 24.5474047,
+      "stop_name": "Tisei",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "116": {
+      "stop_desc": "",
+      "stop_id": "S36",
+      "stop_lat": 46.5596683,
+      "stop_lon": 24.5484563,
+      "stop_name": "Voinicenilor",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "117": {
+      "stop_desc": "",
+      "stop_id": "S37",
+      "stop_lat": 46.5626314,
+      "stop_lon": 24.5479276,
+      "stop_name": "Piata Unirii",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "118": {
+      "stop_desc": "",
+      "stop_id": "S38",
+      "stop_lat": 46.5639826,
+      "stop_lon": 24.547985600000004,
+      "stop_name": "Plopilor",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "119": {
+      "stop_desc": "",
+      "stop_id": "S39",
+      "stop_lat": 46.5639856,
+      "stop_lon": 24.547792,
+      "stop_name": "Plopilor",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "12": {
+      "stop_desc": "",
+      "stop_id": "S68",
+      "stop_lat": 46.5251561,
+      "stop_lon": 24.5497279,
+      "stop_name": "Budiului",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "120": {
+      "stop_desc": "",
+      "stop_id": "S04",
+      "stop_lat": 46.52957120000001,
+      "stop_lon": 24.5552238,
+      "stop_name": "Olimp",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "121": {
+      "stop_desc": "",
+      "stop_id": "S40",
+      "stop_lat": 46.562696,
+      "stop_lon": 24.5475343,
+      "stop_name": "Unirii",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "122": {
+      "stop_desc": "",
+      "stop_id": "S105",
+      "stop_lat": 46.5385934,
+      "stop_lon": 24.5440766,
+      "stop_name": "Gimnaziul Nicolae Balcescu",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "123": {
+      "stop_desc": "",
+      "stop_id": "S41",
+      "stop_lat": 46.5481428,
+      "stop_lon": 24.5584674,
+      "stop_name": "Evreilor Martiri",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "124": {
+      "stop_desc": "",
+      "stop_id": "S42",
+      "stop_lat": 46.59352620000001,
+      "stop_lon": 24.6246062,
+      "stop_name": "Selgros",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "125": {
+      "stop_desc": "",
+      "stop_id": "S43",
+      "stop_lat": 46.5116262,
+      "stop_lon": 24.5111553,
+      "stop_name": "European Retail Park",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "126": {
+      "stop_desc": "",
+      "stop_id": "S44",
+      "stop_lat": 46.5152311,
+      "stop_lon": 24.5183053,
+      "stop_name": "Metro",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "127": {
+      "stop_desc": "",
+      "stop_id": "S45",
+      "stop_lat": 46.54792120000001,
+      "stop_lon": 24.5644262,
+      "stop_name": "Revolutiei",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "128": {
+      "stop_desc": "",
+      "stop_id": "S46",
+      "stop_lat": 46.5557544,
+      "stop_lon": 24.580159100000003,
+      "stop_name": "Parcul Eroilor",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "129": {
+      "stop_desc": "",
+      "stop_id": "S47",
+      "stop_lat": 46.5529763,
+      "stop_lon": 24.5768192,
+      "stop_name": "Clinica De Oncologie",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "13": {
+      "stop_desc": "",
+      "stop_id": "S108",
+      "stop_lat": 46.5826778,
+      "stop_lon": 24.610813500000006,
+      "stop_name": "Baile Sarate",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "130": {
+      "stop_desc": "",
+      "stop_id": "S48",
+      "stop_lat": 46.5385055,
+      "stop_lon": 24.58425,
+      "stop_name": "Infratirii",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "131": {
+      "stop_desc": "",
+      "stop_id": "S49",
+      "stop_lat": 46.5353019,
+      "stop_lon": 24.5787883,
+      "stop_name": "Moldovei",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "132": {
+      "stop_desc": "",
+      "stop_id": "S05",
+      "stop_lat": 46.5393989,
+      "stop_lon": 24.5610345,
+      "stop_name": "Policlinica nr. 2",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "133": {
+      "stop_desc": "",
+      "stop_id": "S106",
+      "stop_lat": 46.5901365,
+      "stop_lon": 24.621440600000003,
+      "stop_name": "Nordenlor Gemini",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "134": {
+      "stop_desc": "",
+      "stop_id": "S50",
+      "stop_lat": 46.5352283,
+      "stop_lon": 24.5789389,
+      "stop_name": "Moldovei",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "135": {
+      "stop_desc": "",
+      "stop_id": "S51",
+      "stop_lat": 46.5355205,
+      "stop_lon": 24.5755265,
+      "stop_name": "Macul Rosu",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "136": {
+      "stop_desc": "",
+      "stop_id": "S52",
+      "stop_lat": 46.5376834,
+      "stop_lon": 24.584493,
+      "stop_name": "Poclos",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "137": {
+      "stop_desc": "",
+      "stop_id": "S53",
+      "stop_lat": 46.5377938,
+      "stop_lon": 24.5728886,
+      "stop_name": "Dacia",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "138": {
+      "stop_desc": "",
+      "stop_id": "S54",
+      "stop_lat": 46.5373649,
+      "stop_lon": 24.5741185,
+      "stop_name": "Dacia",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "139": {
+      "stop_desc": "",
+      "stop_id": "S55",
+      "stop_lat": 46.5389161,
+      "stop_lon": 24.5868573,
+      "stop_name": "Tudor Vladimirescu",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "14": {
+      "stop_desc": "",
+      "stop_id": "S69",
+      "stop_lat": 46.5285942,
+      "stop_lon": 24.545877800000003,
+      "stop_name": "Autogara Voiajor",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "140": {
+      "stop_desc": "",
+      "stop_id": "S56",
+      "stop_lat": 46.5153399,
+      "stop_lon": 24.5179153,
+      "stop_name": "Metro",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "141": {
+      "stop_desc": "",
+      "stop_id": "S57",
+      "stop_lat": 46.5180672,
+      "stop_lon": 24.523374800000006,
+      "stop_name": "Liceul de Chimie",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "142": {
+      "stop_desc": "",
+      "stop_id": "S58",
+      "stop_lat": 46.5186461,
+      "stop_lon": 24.5251118,
+      "stop_name": "Fabrica de Conserve",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "143": {
+      "stop_desc": "",
+      "stop_id": "S59",
+      "stop_lat": 46.5218085,
+      "stop_lon": 24.5309653,
+      "stop_name": "Record",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "15": {
+      "stop_desc": "",
+      "stop_id": "S07",
+      "stop_lat": 46.538855700000006,
+      "stop_lon": 24.5753905,
+      "stop_name": "Radio Tirgu Mures (Busteni)",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "16": {
+      "stop_desc": "",
+      "stop_id": "S70",
+      "stop_lat": 46.52838679999999,
+      "stop_lon": 24.5447992,
+      "stop_name": "Autogara Voiajor",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "17": {
+      "stop_desc": "",
+      "stop_id": "S71",
+      "stop_lat": 46.5288581,
+      "stop_lon": 24.5538932,
+      "stop_name": "Ciucas",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "18": {
+      "stop_desc": "",
+      "stop_id": "S72",
+      "stop_lat": 46.5309413,
+      "stop_lon": 24.5496276,
+      "stop_name": "Trecatorul",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "19": {
+      "stop_desc": "",
+      "stop_id": "S73",
+      "stop_lat": 46.5316439,
+      "stop_lon": 24.5500678,
+      "stop_name": "Gara CFR",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "2": {
+      "stop_desc": "",
+      "stop_id": "S107",
+      "stop_lat": 46.5756566,
+      "stop_lon": 24.6045491,
+      "stop_name": "Strada Tofalau",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "20": {
+      "stop_desc": "",
+      "stop_id": "S74",
+      "stop_lat": 46.5336289,
+      "stop_lon": 24.5500945,
+      "stop_name": "Gara CFR",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "21": {
+      "stop_desc": "",
+      "stop_id": "S75",
+      "stop_lat": 46.51249129999999,
+      "stop_lon": 24.512221,
+      "stop_name": "Combinat",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "22": {
+      "stop_desc": "",
+      "stop_id": "S76",
+      "stop_lat": 46.5233845,
+      "stop_lon": 24.5988914,
+      "stop_name": "Sapientia",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "23": {
+      "stop_desc": "",
+      "stop_id": "S77",
+      "stop_lat": 46.5325641,
+      "stop_lon": 24.589806600000006,
+      "stop_name": "Corina",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "24": {
+      "stop_desc": "",
+      "stop_id": "S109",
+      "stop_lat": 46.5637789,
+      "stop_lon": 24.5849695,
+      "stop_name": "Pasajul Ostrovului",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "25": {
+      "stop_desc": "",
+      "stop_id": "S78",
+      "stop_lat": 46.5366701,
+      "stop_lon": 24.562094,
+      "stop_name": "Predeal",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "26": {
+      "stop_desc": "",
+      "stop_id": "S79",
+      "stop_lat": 46.536672,
+      "stop_lon": 24.5619185,
+      "stop_name": "Predeal",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "27": {
+      "stop_desc": "",
+      "stop_id": "S08",
+      "stop_lat": 46.5347406,
+      "stop_lon": 24.5839785,
+      "stop_name": "Bulevardul 1 Decembrie 1918",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "28": {
+      "stop_desc": "",
+      "stop_id": "S80",
+      "stop_lat": 46.5411614,
+      "stop_lon": 24.5556427,
+      "stop_name": "Cardinal Iuliu Hossu",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "29": {
+      "stop_desc": "",
+      "stop_id": "S81",
+      "stop_lat": 46.5410516,
+      "stop_lon": 24.5554667,
+      "stop_name": "Iuliu Maniu",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "3": {
+      "stop_desc": "",
+      "stop_id": "S06",
+      "stop_lat": 46.5386972,
+      "stop_lon": 24.5702528,
+      "stop_name": "Europa",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "30": {
+      "stop_desc": "",
+      "stop_id": "S82",
+      "stop_lat": 46.5462883,
+      "stop_lon": 24.5544876,
+      "stop_name": "Piata de zi",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "31": {
+      "stop_desc": "",
+      "stop_id": "S83",
+      "stop_lat": 46.5463592,
+      "stop_lon": 24.5546236,
+      "stop_name": "Piata de zi",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "32": {
+      "stop_desc": "",
+      "stop_id": "S84",
+      "stop_lat": 46.549967,
+      "stop_lon": 24.5539783,
+      "stop_name": "Sala Polivalenta",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "33": {
+      "stop_desc": "",
+      "stop_id": "S85",
+      "stop_lat": 46.5529921,
+      "stop_lon": 24.5572815,
+      "stop_name": "Aleea Carpati",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "34": {
+      "stop_desc": "",
+      "stop_id": "S86",
+      "stop_lat": 46.55362589999999,
+      "stop_lon": 24.5581888,
+      "stop_name": "Darina",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "35": {
+      "stop_desc": "",
+      "stop_id": "S11",
+      "stop_lat": 46.5318722,
+      "stop_lon": 24.5574635,
+      "stop_name": "Dambul Pietros",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "36": {
+      "stop_desc": "",
+      "stop_id": "S87",
+      "stop_lat": 46.5567445,
+      "stop_lon": 24.5634616,
+      "stop_name": "strandul 1 Mai",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "37": {
+      "stop_desc": "",
+      "stop_id": "S88",
+      "stop_lat": 46.5427609,
+      "stop_lon": 24.539484,
+      "stop_name": "Ady Endre",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "38": {
+      "stop_desc": "",
+      "stop_id": "S89",
+      "stop_lat": 46.5408412,
+      "stop_lon": 24.5444303,
+      "stop_name": "Salcamilor",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "39": {
+      "stop_desc": "",
+      "stop_id": "S09",
+      "stop_lat": 46.5342141,
+      "stop_lon": 24.5913393,
+      "stop_name": "Regele Ferdinand",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "4": {
+      "stop_desc": "",
+      "stop_id": "S60",
+      "stop_lat": 46.5218125,
+      "stop_lon": 24.5315686,
+      "stop_name": "Record",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "40": {
+      "stop_desc": "",
+      "stop_id": "S90",
+      "stop_lat": 46.5409782,
+      "stop_lon": 24.5444508,
+      "stop_name": "Piata Onesti",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "41": {
+      "stop_desc": "",
+      "stop_id": "S91",
+      "stop_lat": 46.542619,
+      "stop_lon": 24.5393095,
+      "stop_name": "Rovinari",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "42": {
+      "stop_desc": "",
+      "stop_id": "S92",
+      "stop_lat": 46.5350034,
+      "stop_lon": 24.5657497,
+      "stop_name": "Izvorul Rece",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "43": {
+      "stop_desc": "",
+      "stop_id": "S93",
+      "stop_lat": 46.5348558,
+      "stop_lon": 24.5654754,
+      "stop_name": "Izvorul Rece",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "44": {
+      "stop_desc": "",
+      "stop_id": "S94",
+      "stop_lat": 46.5336258,
+      "stop_lon": 24.5706229,
+      "stop_name": "Panduru",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "45": {
+      "stop_desc": "",
+      "stop_id": "S95",
+      "stop_lat": 46.5335718,
+      "stop_lon": 24.5691171,
+      "stop_name": "Panduru",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "46": {
+      "stop_desc": "",
+      "stop_id": "S110",
+      "stop_lat": 46.5799262,
+      "stop_lon": 24.607412300000004,
+      "stop_name": "Biserica Ortodoxa",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "47": {
+      "stop_desc": "",
+      "stop_id": "S96",
+      "stop_lat": 46.5334645,
+      "stop_lon": 24.5723159,
+      "stop_name": "MBO",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "48": {
+      "stop_desc": "",
+      "stop_id": "S97",
+      "stop_lat": 46.5332481,
+      "stop_lon": 24.5783564,
+      "stop_name": "Mari Cristi",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "49": {
+      "stop_desc": "",
+      "stop_id": "S98",
+      "stop_lat": 46.5331014,
+      "stop_lon": 24.5796699,
+      "stop_name": "Mari Cristi",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "5": {
+      "stop_desc": "",
+      "stop_id": "S61",
+      "stop_lat": 46.5247912,
+      "stop_lon": 24.5369559,
+      "stop_name": "Traian Vuia",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "50": {
+      "stop_desc": "",
+      "stop_id": "S99",
+      "stop_lat": 46.5342263,
+      "stop_lon": 24.5824139,
+      "stop_name": "Pandurilor",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "51": {
+      "stop_desc": "",
+      "stop_id": "S111",
+      "stop_lat": 46.5823,
+      "stop_lon": 24.6106899,
+      "stop_name": "Baile Sarate",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "52": {
+      "stop_desc": "",
+      "stop_id": "S112",
+      "stop_lat": 46.5907723,
+      "stop_lon": 24.6218752,
+      "stop_name": "Magnolia",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "53": {
+      "stop_desc": "",
+      "stop_id": "S113",
+      "stop_lat": 46.5802859,
+      "stop_lon": 24.6075396,
+      "stop_name": "Subdeal",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "54": {
+      "stop_desc": "",
+      "stop_id": "S114",
+      "stop_lat": 46.571743700000006,
+      "stop_lon": 24.5974179,
+      "stop_name": "Valea Jacului",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "55": {
+      "stop_desc": "",
+      "stop_id": "S115",
+      "stop_lat": 46.5640435,
+      "stop_lon": 24.585054100000004,
+      "stop_name": "Pasajul Ostrovului",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "56": {
+      "stop_desc": "",
+      "stop_id": "S10",
+      "stop_lat": 46.5355108,
+      "stop_lon": 24.5956129,
+      "stop_name": "Solidaritatea",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "57": {
+      "stop_desc": "",
+      "stop_id": "S116",
+      "stop_lat": 46.5709093,
+      "stop_lon": 24.5962349,
+      "stop_name": "Gradinita",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "58": {
+      "stop_desc": "",
+      "stop_id": "S117",
+      "stop_lat": 46.5805759,
+      "stop_lon": 24.5552019,
+      "stop_name": "Statie Necunoscuta",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "59": {
+      "stop_desc": "",
+      "stop_id": "S118",
+      "stop_lat": 46.58630170000001,
+      "stop_lon": 24.5641524,
+      "stop_name": "Statie Necunoscuta",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "6": {
+      "stop_desc": "",
+      "stop_id": "S62",
+      "stop_lat": 46.5238569,
+      "stop_lon": 24.5420879,
+      "stop_name": "Autogara Trans Sil",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "60": {
+      "stop_desc": "",
+      "stop_id": "S119",
+      "stop_lat": 46.5233972,
+      "stop_lon": 24.5190435,
+      "stop_name": "Dezrobirii",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "61": {
+      "stop_desc": "",
+      "stop_id": "S12",
+      "stop_lat": 46.5396585,
+      "stop_lon": 24.5604582,
+      "stop_name": "Izvor",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "62": {
+      "stop_desc": "",
+      "stop_id": "S120",
+      "stop_lat": 46.5274317,
+      "stop_lon": 24.535059,
+      "stop_name": "Transilvania",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "63": {
+      "stop_desc": "",
+      "stop_id": "S121",
+      "stop_lat": 46.5263583,
+      "stop_lon": 24.5137457,
+      "stop_name": "Mureseni sat",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "64": {
+      "stop_desc": "",
+      "stop_id": "S122",
+      "stop_lat": 46.5234691,
+      "stop_lon": 24.525924,
+      "stop_name": "Ambient",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "65": {
+      "stop_desc": "",
+      "stop_id": "S123",
+      "stop_lat": 46.5270489,
+      "stop_lon": 24.5339067,
+      "stop_name": "Transilvania",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "66": {
+      "stop_desc": "",
+      "stop_id": "S124",
+      "stop_lat": 46.5235066,
+      "stop_lon": 24.5263802,
+      "stop_name": "Ambient",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "67": {
+      "stop_desc": "",
+      "stop_id": "S100",
+      "stop_lat": 46.5329951,
+      "stop_lon": 24.573741,
+      "stop_name": "Transilvania",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "68": {
+      "stop_desc": "",
+      "stop_id": "S125",
+      "stop_lat": 46.5316815,
+      "stop_lon": 24.5409687,
+      "stop_name": "Fabrica de zahar",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "69": {
+      "stop_desc": "",
+      "stop_id": "S126",
+      "stop_lat": 46.5307325,
+      "stop_lon": 24.5391421,
+      "stop_name": "Fabrica de zahar",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "7": {
+      "stop_desc": "",
+      "stop_id": "S63",
+      "stop_lat": 46.5235091,
+      "stop_lon": 24.5420894,
+      "stop_name": "Autogara Trans Sil",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "70": {
+      "stop_desc": "",
+      "stop_id": "S127",
+      "stop_lat": 46.5423141,
+      "stop_lon": 24.5495258,
+      "stop_name": "Savinesti",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "71": {
+      "stop_desc": "",
+      "stop_id": "S128",
+      "stop_lat": 46.5359325,
+      "stop_lon": 24.547441,
+      "stop_name": "Nicolae Balcescu",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "72": {
+      "stop_desc": "",
+      "stop_id": "S129",
+      "stop_lat": 46.5419393,
+      "stop_lon": 24.5485514,
+      "stop_name": "Campului",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "73": {
+      "stop_desc": "",
+      "stop_id": "S13",
+      "stop_lat": 46.5390676,
+      "stop_lon": 24.5762362,
+      "stop_name": "Lalelelor",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "74": {
+      "stop_desc": "",
+      "stop_id": "S130",
+      "stop_lat": 46.5387278,
+      "stop_lon": 24.5431834,
+      "stop_name": "Libertatii",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "75": {
+      "stop_desc": "",
+      "stop_id": "S131",
+      "stop_lat": 46.562293200000006,
+      "stop_lon": 24.5400066,
+      "stop_name": "Remetea",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "76": {
+      "stop_desc": "",
+      "stop_id": "S132",
+      "stop_lat": 46.5680486,
+      "stop_lon": 24.5298795,
+      "stop_name": "Ceangailor",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "77": {
+      "stop_desc": "",
+      "stop_id": "S133",
+      "stop_lat": 46.5668372,
+      "stop_lon": 24.5357274,
+      "stop_name": "Pomilor",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "78": {
+      "stop_desc": "",
+      "stop_id": "S101",
+      "stop_lat": 46.5665011,
+      "stop_lon": 24.5894529,
+      "stop_name": "Capalna",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "79": {
+      "stop_desc": "",
+      "stop_id": "S134",
+      "stop_lat": 46.5358907,
+      "stop_lon": 24.5583767,
+      "stop_name": "Ciresului",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "8": {
+      "stop_desc": "",
+      "stop_id": "S64",
+      "stop_lat": 46.5250878,
+      "stop_lon": 24.5381492,
+      "stop_name": "Prodcomplex",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "80": {
+      "stop_desc": "",
+      "stop_id": "S135",
+      "stop_lat": 46.54971679999999,
+      "stop_lon": 24.5539984,
+      "stop_name": "Matei Corvin",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "81": {
+      "stop_desc": "",
+      "stop_id": "S136",
+      "stop_lat": 46.52741500000001,
+      "stop_lon": 24.5597338,
+      "stop_name": "Centura",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "82": {
+      "stop_desc": "",
+      "stop_id": "S137",
+      "stop_lat": 46.52805770000001,
+      "stop_lon": 24.5604805,
+      "stop_name": "Centura",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "83": {
+      "stop_desc": "",
+      "stop_id": "S138",
+      "stop_lat": 46.53572970000001,
+      "stop_lon": 24.5955975,
+      "stop_name": "Centrofarm",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "84": {
+      "stop_desc": "",
+      "stop_id": "S139",
+      "stop_lat": 46.5367338,
+      "stop_lon": 24.5912258,
+      "stop_name": "Piata Diamant",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "85": {
+      "stop_desc": "",
+      "stop_id": "S14",
+      "stop_lat": 46.535607,
+      "stop_lon": 24.5828064,
+      "stop_name": "Fortuna",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "86": {
+      "stop_desc": "",
+      "stop_id": "S140",
+      "stop_lat": 46.5373516,
+      "stop_lon": 24.5903357,
+      "stop_name": "Piata Diamant",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "87": {
+      "stop_desc": "",
+      "stop_id": "S141",
+      "stop_lat": 46.546694,
+      "stop_lon": 24.569269100000003,
+      "stop_name": "Nicolae Iorga",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "88": {
+      "stop_desc": "",
+      "stop_id": "S142",
+      "stop_lat": 46.4805287,
+      "stop_lon": 24.6331332,
+      "stop_name": "Acatari",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "89": {
+      "stop_desc": "",
+      "stop_id": "S102",
+      "stop_lat": 46.5670834,
+      "stop_lon": 24.5901343,
+      "stop_name": "Capalna",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "9": {
+      "stop_desc": "",
+      "stop_id": "S65",
+      "stop_lat": 46.522925,
+      "stop_lon": 24.545743100000006,
+      "stop_name": "Plasmaterm",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "90": {
+      "stop_desc": "",
+      "stop_id": "S143",
+      "stop_lat": 46.4802791,
+      "stop_lon": 24.6328932,
+      "stop_name": "Acatari",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "91": {
+      "stop_desc": "",
+      "stop_id": "S15",
+      "stop_lat": 46.535123,
+      "stop_lon": 24.5544044,
+      "stop_name": "Mocca",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "92": {
+      "stop_desc": "",
+      "stop_id": "S16",
+      "stop_lat": 46.5355554,
+      "stop_lon": 24.5551997,
+      "stop_name": "Mocca",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "93": {
+      "stop_desc": "",
+      "stop_id": "S17",
+      "stop_lat": 46.54385429999999,
+      "stop_lon": 24.5603309,
+      "stop_name": "Piata Trandafirilor",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "94": {
+      "stop_desc": "",
+      "stop_id": "S18",
+      "stop_lat": 46.5455925,
+      "stop_lon": 24.5619527,
+      "stop_name": "Piata Teatrului",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "95": {
+      "stop_desc": "",
+      "stop_id": "S19",
+      "stop_lat": 46.5524327,
+      "stop_lon": 24.566892000000006,
+      "stop_name": "Gara Mica",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "96": {
+      "stop_desc": "",
+      "stop_id": "S02",
+      "stop_lat": 46.53654810000001,
+      "stop_lon": 24.558493,
+      "stop_name": "Avram Iancu",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "97": {
+      "stop_desc": "",
+      "stop_id": "S20",
+      "stop_lat": 46.5522715,
+      "stop_lon": 24.567138,
+      "stop_name": "Piata Republicii",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "98": {
+      "stop_desc": "",
+      "stop_id": "S21",
+      "stop_lat": 46.5598293,
+      "stop_lon": 24.5807067,
+      "stop_name": "SMURD",
+      "stop_url": "",
+      "zone_id": ""
+    },
+    "99": {
+      "stop_desc": "",
+      "stop_id": "S22",
+      "stop_lat": 46.5593883,
+      "stop_lon": 24.5811726,
+      "stop_name": "Spitalul Judetean",
+      "stop_url": "",
+      "zone_id": ""
+    }
+  },
+  "translations": {},
+  "trips": {
+    "1": {
+      "block_id": "1",
+      "direction_id": 0,
+      "route_id": "L44",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "to Sapientia",
+      "trip_id": "L441",
+      "trip_short_name": ""
+    },
+    "2": {
+      "block_id": "2",
+      "direction_id": 1,
+      "route_id": "L44",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "to Combinat",
+      "trip_id": "L442",
+      "trip_short_name": ""
+    },
+    "3": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06081",
+      "trip_short_name": "6 21:40 to Centrofarm"
+    },
+    "4": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06080",
+      "trip_short_name": "6 20:40 to Centrofarm"
+    },
+    "5": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06079",
+      "trip_short_name": "6 19:40 to Centrofarm"
+    },
+    "6": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06078",
+      "trip_short_name": "6 18:40 to Centrofarm"
+    },
+    "7": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06077",
+      "trip_short_name": "6 17:40 to Centrofarm"
+    },
+    "8": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06076",
+      "trip_short_name": "6 16:20 to Centrofarm"
+    },
+    "9": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06075",
+      "trip_short_name": "6 15:20 to Centrofarm"
+    },
+    "10": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06074",
+      "trip_short_name": "6 14:20 to Centrofarm"
+    },
+    "11": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06073",
+      "trip_short_name": "6 13:20 to Centrofarm"
+    },
+    "12": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06072",
+      "trip_short_name": "6 12:20 to Centrofarm"
+    },
+    "13": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06071",
+      "trip_short_name": "6 11:20 to Centrofarm"
+    },
+    "14": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06070",
+      "trip_short_name": "6 10:20 to Centrofarm"
+    },
+    "15": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06069",
+      "trip_short_name": "6 08:50 to Centrofarm"
+    },
+    "16": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06068",
+      "trip_short_name": "6 07:50 to Centrofarm"
+    },
+    "17": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06067",
+      "trip_short_name": "6 06:50 to Centrofarm"
+    },
+    "18": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06066",
+      "trip_short_name": "6 05:50 to Centrofarm"
+    },
+    "19": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06065",
+      "trip_short_name": "6 21:15 to Centrofarm"
+    },
+    "20": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06064",
+      "trip_short_name": "6 20:05 to Centrofarm"
+    },
+    "21": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06063",
+      "trip_short_name": "6 18:55 to Centrofarm"
+    },
+    "22": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06062",
+      "trip_short_name": "6 17:45 to Centrofarm"
+    },
+    "23": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06061",
+      "trip_short_name": "6 16:35 to Centrofarm"
+    },
+    "24": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06060",
+      "trip_short_name": "6 15:45 to Centrofarm"
+    },
+    "25": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06059",
+      "trip_short_name": "6 15:10 to Centrofarm"
+    },
+    "26": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06058",
+      "trip_short_name": "6 14:50 to Centrofarm"
+    },
+    "27": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06057",
+      "trip_short_name": "6 14:00 to Centrofarm"
+    },
+    "28": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06056",
+      "trip_short_name": "6 13:25 to Centrofarm"
+    },
+    "29": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06055",
+      "trip_short_name": "6 12:50 to Centrofarm"
+    },
+    "30": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06054",
+      "trip_short_name": "6 12:15 to Centrofarm"
+    },
+    "31": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06053",
+      "trip_short_name": "6 11:40 to Centrofarm"
+    },
+    "32": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06052",
+      "trip_short_name": "6 11:05 to Centrofarm"
+    },
+    "33": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06051",
+      "trip_short_name": "6 10:30 to Centrofarm"
+    },
+    "34": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06050",
+      "trip_short_name": "6 09:55 to Centrofarm"
+    },
+    "35": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06049",
+      "trip_short_name": "6 09:20 to Centrofarm"
+    },
+    "36": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06048",
+      "trip_short_name": "6 08:45 to Centrofarm"
+    },
+    "37": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06047",
+      "trip_short_name": "6 08:10 to Centrofarm"
+    },
+    "38": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06046",
+      "trip_short_name": "6 07:30 to Centrofarm"
+    },
+    "39": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06045",
+      "trip_short_name": "6 06:55 to Centrofarm"
+    },
+    "40": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06044",
+      "trip_short_name": "6 06:25 to Centrofarm"
+    },
+    "41": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06043",
+      "trip_short_name": "6 05:50 to Centrofarm"
+    },
+    "42": {
+      "block_id": "",
+      "direction_id": 1,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Centrofarm",
+      "trip_id": "L06042",
+      "trip_short_name": "6 05:10 to Centrofarm"
+    },
+    "43": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06041",
+      "trip_short_name": "6 22:10 to Mureseni sat"
+    },
+    "44": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06040",
+      "trip_short_name": "6 21:10 to Mureseni sat"
+    },
+    "45": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06039",
+      "trip_short_name": "6 20:10 to Mureseni sat"
+    },
+    "46": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06038",
+      "trip_short_name": "6 19:10 to Mureseni sat"
+    },
+    "47": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06037",
+      "trip_short_name": "6 18:10 to Mureseni sat"
+    },
+    "48": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06036",
+      "trip_short_name": "6 17:10 to Mureseni sat"
+    },
+    "49": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06035",
+      "trip_short_name": "6 15:50 to Mureseni sat"
+    },
+    "50": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06034",
+      "trip_short_name": "6 14:50 to Mureseni sat"
+    },
+    "51": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06033",
+      "trip_short_name": "6 13:50 to Mureseni sat"
+    },
+    "52": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06032",
+      "trip_short_name": "6 12:50 to Mureseni sat"
+    },
+    "53": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06031",
+      "trip_short_name": "6 11:50 to Mureseni sat"
+    },
+    "54": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06030",
+      "trip_short_name": "6 10:50 to Mureseni sat"
+    },
+    "55": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06029",
+      "trip_short_name": "6 09:50 to Mureseni sat"
+    },
+    "56": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06028",
+      "trip_short_name": "6 08:20 to Mureseni sat"
+    },
+    "57": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06027",
+      "trip_short_name": "6 07:20 to Mureseni sat"
+    },
+    "58": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06026",
+      "trip_short_name": "6 06:20 to Mureseni sat"
+    },
+    "59": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06025",
+      "trip_short_name": "6 05:20 to Mureseni sat"
+    },
+    "60": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06024",
+      "trip_short_name": "6 22:00 to Mureseni sat"
+    },
+    "61": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06023",
+      "trip_short_name": "6 20:40 to Mureseni sat"
+    },
+    "62": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06022",
+      "trip_short_name": "6 19:30 to Mureseni sat"
+    },
+    "63": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06021",
+      "trip_short_name": "6 18:20 to Mureseni sat"
+    },
+    "64": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06020",
+      "trip_short_name": "6 17:10 to Mureseni sat"
+    },
+    "65": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06019",
+      "trip_short_name": "6 16:00 to Mureseni sat"
+    },
+    "66": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06018",
+      "trip_short_name": "6 15:10 to Mureseni sat"
+    },
+    "67": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06017",
+      "trip_short_name": "6 14:35 to Mureseni sat"
+    },
+    "68": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06016",
+      "trip_short_name": "6 14:00 to Mureseni sat"
+    },
+    "69": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06015",
+      "trip_short_name": "6 13:25 to Mureseni sat"
+    },
+    "70": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06014",
+      "trip_short_name": "6 12:50 to Mureseni sat"
+    },
+    "71": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06013",
+      "trip_short_name": "6 12:15 to Mureseni sat"
+    },
+    "72": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06012",
+      "trip_short_name": "6 11:40 to Mureseni sat"
+    },
+    "73": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06011",
+      "trip_short_name": "6 11:05 to Mureseni sat"
+    },
+    "74": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06010",
+      "trip_short_name": "6 10:30 to Mureseni sat"
+    },
+    "75": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06009",
+      "trip_short_name": "6 09:55 to Mureseni sat"
+    },
+    "76": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06008",
+      "trip_short_name": "6 09:20 to Mureseni sat"
+    },
+    "77": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06007",
+      "trip_short_name": "6 08:45 to Mureseni sat"
+    },
+    "78": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06006",
+      "trip_short_name": "6 08:10 to Mureseni sat"
+    },
+    "79": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06005",
+      "trip_short_name": "6 07:30 to Mureseni sat"
+    },
+    "80": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06004",
+      "trip_short_name": "6 06:55 to Mureseni sat"
+    },
+    "81": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06003",
+      "trip_short_name": "6 06:25 to Mureseni sat"
+    },
+    "82": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06002",
+      "trip_short_name": "6 05:50 to Mureseni sat"
+    },
+    "83": {
+      "block_id": "",
+      "direction_id": 0,
+      "route_id": "L06",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L06001",
+      "trip_short_name": "6 05:15 to Mureseni sat"
+    },
+    "84": {
+      "direction_id": 0,
+      "route_id": "L02",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02001",
+      "trip_short_name": "2 07:24 to SMURD"
+    },
+    "85": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B093",
+      "trip_short_name": "2B 22:00 to Mureseni sat"
+    },
+    "86": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B092",
+      "trip_short_name": "2B 20:50 to Mureseni sat"
+    },
+    "87": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B091",
+      "trip_short_name": "2B 19:50 to Mureseni sat"
+    },
+    "88": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B090",
+      "trip_short_name": "2B 18:50 to Mureseni sat"
+    },
+    "89": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B089",
+      "trip_short_name": "2B 17:20 to Mureseni sat"
+    },
+    "90": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B088",
+      "trip_short_name": "2B 16:20 to Mureseni sat"
+    },
+    "91": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B087",
+      "trip_short_name": "2B 15:20 to Mureseni sat"
+    },
+    "92": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B086",
+      "trip_short_name": "2B 14:20 to Mureseni sat"
+    },
+    "93": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B085",
+      "trip_short_name": "2B 13:20 to Mureseni sat"
+    },
+    "94": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B084",
+      "trip_short_name": "2B 12:20 to Mureseni sat"
+    },
+    "95": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B083",
+      "trip_short_name": "2B 11:20 to Mureseni sat"
+    },
+    "96": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B082",
+      "trip_short_name": "2B 10:20 to Mureseni sat"
+    },
+    "97": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B081",
+      "trip_short_name": "2B 08:50 to Mureseni sat"
+    },
+    "98": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B080",
+      "trip_short_name": "2B 07:50 to Mureseni sat"
+    },
+    "99": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B079",
+      "trip_short_name": "2B 06:50 to Mureseni sat"
+    },
+    "100": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B078",
+      "trip_short_name": "2B 05:50 to Mureseni sat"
+    },
+    "101": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B077",
+      "trip_short_name": "2B 21:30 to SMURD"
+    },
+    "102": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B076",
+      "trip_short_name": "2B 20:20 to SMURD"
+    },
+    "103": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B075",
+      "trip_short_name": "2B 19:20 to SMURD"
+    },
+    "104": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B074",
+      "trip_short_name": "2B 18:20 to SMURD"
+    },
+    "105": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B073",
+      "trip_short_name": "2B 16:50 to SMURD"
+    },
+    "106": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B072",
+      "trip_short_name": "2B 15:50 to SMURD"
+    },
+    "107": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B071",
+      "trip_short_name": "2B 14:50 to SMURD"
+    },
+    "108": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B070",
+      "trip_short_name": "2B 13:50 to SMURD"
+    },
+    "109": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B069",
+      "trip_short_name": "2B 12:50 to SMURD"
+    },
+    "110": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B068",
+      "trip_short_name": "2B 11:50 to SMURD"
+    },
+    "111": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B067",
+      "trip_short_name": "2B 10:50 to SMURD"
+    },
+    "112": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B066",
+      "trip_short_name": "2B 09:50 to SMURD"
+    },
+    "113": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B065",
+      "trip_short_name": "2B 08:20 to SMURD"
+    },
+    "114": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B064",
+      "trip_short_name": "2B 07:20 to SMURD"
+    },
+    "115": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B063",
+      "trip_short_name": "2B 06:20 to SMURD"
+    },
+    "116": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B062",
+      "trip_short_name": "2B 05:20 to SMURD"
+    },
+    "117": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "WE",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B061",
+      "trip_short_name": "2B 05:20 to SMURD"
+    },
+    "118": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B060",
+      "trip_short_name": "2B 22:10 to Mureseni sat"
+    },
+    "119": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B059",
+      "trip_short_name": "2B 21:20 to Mureseni sat"
+    },
+    "120": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B058",
+      "trip_short_name": "2B 20:45 to Mureseni sat"
+    },
+    "121": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B057",
+      "trip_short_name": "2B 20:10 to Mureseni sat"
+    },
+    "122": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B056",
+      "trip_short_name": "2B 19:35 to Mureseni sat"
+    },
+    "123": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B055",
+      "trip_short_name": "2B 19:00 to Mureseni sat"
+    },
+    "124": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B054",
+      "trip_short_name": "2B 18:25 to Mureseni sat"
+    },
+    "125": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B053",
+      "trip_short_name": "2B 17:50 to Mureseni sat"
+    },
+    "126": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B052",
+      "trip_short_name": "2B 17:15 to Mureseni sat"
+    },
+    "127": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B051",
+      "trip_short_name": "2B 16:40 to Mureseni sat"
+    },
+    "128": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B050",
+      "trip_short_name": "2B 16:05 to Mureseni sat"
+    },
+    "129": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B049",
+      "trip_short_name": "2B 15:30 to Mureseni sat"
+    },
+    "130": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B048",
+      "trip_short_name": "2B 14:55 to Mureseni sat"
+    },
+    "131": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B047",
+      "trip_short_name": "2B 14:20 to Mureseni sat"
+    },
+    "132": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B046",
+      "trip_short_name": "2B 13:45 to Mureseni sat"
+    },
+    "133": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B045",
+      "trip_short_name": "2B 13:10 to Mureseni sat"
+    },
+    "134": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B044",
+      "trip_short_name": "2B 12:35 to Mureseni sat"
+    },
+    "135": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B043",
+      "trip_short_name": "2B 12:00 to Mureseni sat"
+    },
+    "136": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B042",
+      "trip_short_name": "2B 11:25 to Mureseni sat"
+    },
+    "137": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B041",
+      "trip_short_name": "2B 10:50 to Mureseni sat"
+    },
+    "138": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B040",
+      "trip_short_name": "2B 10:15 to Mureseni sat"
+    },
+    "139": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B039",
+      "trip_short_name": "2B 09:40 to Mureseni sat"
+    },
+    "140": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B038",
+      "trip_short_name": "2B 09:05 to Mureseni sat"
+    },
+    "141": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B037",
+      "trip_short_name": "2B 08:30 to Mureseni sat"
+    },
+    "142": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B036",
+      "trip_short_name": "2B 07:55 to Mureseni sat"
+    },
+    "143": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B035",
+      "trip_short_name": "2B 07:20 to Mureseni sat"
+    },
+    "144": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B034",
+      "trip_short_name": "2B 06:45 to Mureseni sat"
+    },
+    "145": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B033",
+      "trip_short_name": "2B 06:10 to Mureseni sat"
+    },
+    "146": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B032",
+      "trip_short_name": "2B 05:35 to Mureseni sat"
+    },
+    "147": {
+      "direction_id": 1,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "Mureseni sat",
+      "trip_id": "L02B031",
+      "trip_short_name": "2B 05:00 to Mureseni sat"
+    },
+    "148": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B030",
+      "trip_short_name": "2B 22:10 to SMURD"
+    },
+    "149": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B029",
+      "trip_short_name": "2B 21:40 to SMURD"
+    },
+    "150": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B028",
+      "trip_short_name": "2B 20:45 to SMURD"
+    },
+    "151": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B027",
+      "trip_short_name": "2B 20:10 to SMURD"
+    },
+    "152": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B026",
+      "trip_short_name": "2B 19:35 to SMURD"
+    },
+    "153": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B025",
+      "trip_short_name": "2B 19:00 to SMURD"
+    },
+    "154": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B024",
+      "trip_short_name": "2B 18:25 to SMURD"
+    },
+    "155": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B023",
+      "trip_short_name": "2B 17:50 to SMURD"
+    },
+    "156": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B022",
+      "trip_short_name": "2B 17:15 to SMURD"
+    },
+    "157": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B021",
+      "trip_short_name": "2B 16:40 to SMURD"
+    },
+    "158": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B020",
+      "trip_short_name": "2B 16:05 to SMURD"
+    },
+    "159": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B019",
+      "trip_short_name": "2B 15:30 to SMURD"
+    },
+    "160": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B018",
+      "trip_short_name": "2B 14:55 to SMURD"
+    },
+    "161": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B017",
+      "trip_short_name": "2B 14:20 to SMURD"
+    },
+    "162": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B016",
+      "trip_short_name": "2B 13:45 to SMURD"
+    },
+    "163": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B015",
+      "trip_short_name": "2B 13:10 to SMURD"
+    },
+    "164": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B014",
+      "trip_short_name": "2B 12:35 to SMURD"
+    },
+    "165": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B013",
+      "trip_short_name": "2B 12:00 to SMURD"
+    },
+    "166": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B012",
+      "trip_short_name": "2B 11:25 to SMURD"
+    },
+    "167": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B011",
+      "trip_short_name": "2B 10:50 to SMURD"
+    },
+    "168": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B010",
+      "trip_short_name": "2B 10:15 to SMURD"
+    },
+    "169": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B009",
+      "trip_short_name": "2B 09:40 to SMURD"
+    },
+    "170": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B008",
+      "trip_short_name": "2B 09:05 to SMURD"
+    },
+    "171": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B007",
+      "trip_short_name": "2B 08:30 to SMURD"
+    },
+    "172": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B006",
+      "trip_short_name": "2B 07:55 to SMURD"
+    },
+    "173": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B005",
+      "trip_short_name": "2B 07:20 to SMURD"
+    },
+    "174": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B004",
+      "trip_short_name": "2B 06:45 to SMURD"
+    },
+    "175": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B003",
+      "trip_short_name": "2B 06:10 to SMURD"
+    },
+    "176": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B002",
+      "trip_short_name": "2B 05:35 to SMURD"
+    },
+    "177": {
+      "direction_id": 0,
+      "route_id": "L02B",
+      "service_id": "FULLW",
+      "shape_id": "",
+      "trip_headsign": "SMURD",
+      "trip_id": "L02B001",
+      "trip_short_name": "2B 05:00 to SMURD"
+    }
+  }
+}

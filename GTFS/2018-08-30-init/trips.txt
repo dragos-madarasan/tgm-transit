@@ -1,0 +1,178 @@
+block_id,direction_id,route_id,service_id,shape_id,trip_headsign,trip_id,trip_short_name
+1,0,L44,FULLW,,to Sapientia,L441,
+2,1,L44,FULLW,,to Combinat,L442,
+,1,L06,WE,,Centrofarm,L06081,6 21:40 to Centrofarm
+,1,L06,WE,,Centrofarm,L06080,6 20:40 to Centrofarm
+,1,L06,WE,,Centrofarm,L06079,6 19:40 to Centrofarm
+,1,L06,WE,,Centrofarm,L06078,6 18:40 to Centrofarm
+,1,L06,WE,,Centrofarm,L06077,6 17:40 to Centrofarm
+,1,L06,WE,,Centrofarm,L06076,6 16:20 to Centrofarm
+,1,L06,WE,,Centrofarm,L06075,6 15:20 to Centrofarm
+,1,L06,WE,,Centrofarm,L06074,6 14:20 to Centrofarm
+,1,L06,WE,,Centrofarm,L06073,6 13:20 to Centrofarm
+,1,L06,WE,,Centrofarm,L06072,6 12:20 to Centrofarm
+,1,L06,WE,,Centrofarm,L06071,6 11:20 to Centrofarm
+,1,L06,WE,,Centrofarm,L06070,6 10:20 to Centrofarm
+,1,L06,WE,,Centrofarm,L06069,6 08:50 to Centrofarm
+,1,L06,WE,,Centrofarm,L06068,6 07:50 to Centrofarm
+,1,L06,WE,,Centrofarm,L06067,6 06:50 to Centrofarm
+,1,L06,WE,,Centrofarm,L06066,6 05:50 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06065,6 21:15 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06064,6 20:05 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06063,6 18:55 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06062,6 17:45 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06061,6 16:35 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06060,6 15:45 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06059,6 15:10 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06058,6 14:50 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06057,6 14:00 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06056,6 13:25 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06055,6 12:50 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06054,6 12:15 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06053,6 11:40 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06052,6 11:05 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06051,6 10:30 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06050,6 09:55 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06049,6 09:20 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06048,6 08:45 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06047,6 08:10 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06046,6 07:30 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06045,6 06:55 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06044,6 06:25 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06043,6 05:50 to Centrofarm
+,1,L06,FULLW,,Centrofarm,L06042,6 05:10 to Centrofarm
+,0,L06,WE,,Mureseni sat,L06041,6 22:10 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06040,6 21:10 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06039,6 20:10 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06038,6 19:10 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06037,6 18:10 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06036,6 17:10 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06035,6 15:50 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06034,6 14:50 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06033,6 13:50 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06032,6 12:50 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06031,6 11:50 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06030,6 10:50 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06029,6 09:50 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06028,6 08:20 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06027,6 07:20 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06026,6 06:20 to Mureseni sat
+,0,L06,WE,,Mureseni sat,L06025,6 05:20 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06024,6 22:00 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06023,6 20:40 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06022,6 19:30 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06021,6 18:20 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06020,6 17:10 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06019,6 16:00 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06018,6 15:10 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06017,6 14:35 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06016,6 14:00 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06015,6 13:25 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06014,6 12:50 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06013,6 12:15 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06012,6 11:40 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06011,6 11:05 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06010,6 10:30 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06009,6 09:55 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06008,6 09:20 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06007,6 08:45 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06006,6 08:10 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06005,6 07:30 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06004,6 06:55 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06003,6 06:25 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06002,6 05:50 to Mureseni sat
+,0,L06,FULLW,,Mureseni sat,L06001,6 05:15 to Mureseni sat
+,0,L02,FULLW,,SMURD,L02001,2 07:24 to SMURD
+,1,L02B,WE,,Mureseni sat,L02B093,2B 22:00 to Mureseni sat
+,1,L02B,WE,,Mureseni sat,L02B092,2B 20:50 to Mureseni sat
+,1,L02B,WE,,Mureseni sat,L02B091,2B 19:50 to Mureseni sat
+,1,L02B,WE,,Mureseni sat,L02B090,2B 18:50 to Mureseni sat
+,1,L02B,WE,,Mureseni sat,L02B089,2B 17:20 to Mureseni sat
+,1,L02B,WE,,Mureseni sat,L02B088,2B 16:20 to Mureseni sat
+,1,L02B,WE,,Mureseni sat,L02B087,2B 15:20 to Mureseni sat
+,1,L02B,WE,,Mureseni sat,L02B086,2B 14:20 to Mureseni sat
+,1,L02B,WE,,Mureseni sat,L02B085,2B 13:20 to Mureseni sat
+,1,L02B,WE,,Mureseni sat,L02B084,2B 12:20 to Mureseni sat
+,1,L02B,WE,,Mureseni sat,L02B083,2B 11:20 to Mureseni sat
+,1,L02B,WE,,Mureseni sat,L02B082,2B 10:20 to Mureseni sat
+,1,L02B,WE,,Mureseni sat,L02B081,2B 08:50 to Mureseni sat
+,1,L02B,WE,,Mureseni sat,L02B080,2B 07:50 to Mureseni sat
+,1,L02B,WE,,Mureseni sat,L02B079,2B 06:50 to Mureseni sat
+,1,L02B,WE,,Mureseni sat,L02B078,2B 05:50 to Mureseni sat
+,0,L02B,WE,,SMURD,L02B077,2B 21:30 to SMURD
+,0,L02B,WE,,SMURD,L02B076,2B 20:20 to SMURD
+,0,L02B,WE,,SMURD,L02B075,2B 19:20 to SMURD
+,0,L02B,WE,,SMURD,L02B074,2B 18:20 to SMURD
+,0,L02B,WE,,SMURD,L02B073,2B 16:50 to SMURD
+,0,L02B,WE,,SMURD,L02B072,2B 15:50 to SMURD
+,0,L02B,WE,,SMURD,L02B071,2B 14:50 to SMURD
+,0,L02B,WE,,SMURD,L02B070,2B 13:50 to SMURD
+,0,L02B,WE,,SMURD,L02B069,2B 12:50 to SMURD
+,0,L02B,WE,,SMURD,L02B068,2B 11:50 to SMURD
+,0,L02B,WE,,SMURD,L02B067,2B 10:50 to SMURD
+,0,L02B,WE,,SMURD,L02B066,2B 09:50 to SMURD
+,0,L02B,WE,,SMURD,L02B065,2B 08:20 to SMURD
+,0,L02B,WE,,SMURD,L02B064,2B 07:20 to SMURD
+,0,L02B,WE,,SMURD,L02B063,2B 06:20 to SMURD
+,0,L02B,WE,,SMURD,L02B062,2B 05:20 to SMURD
+,0,L02B,WE,,SMURD,L02B061,2B 05:20 to SMURD
+,1,L02B,FULLW,,Mureseni sat,L02B060,2B 22:10 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B059,2B 21:20 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B058,2B 20:45 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B057,2B 20:10 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B056,2B 19:35 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B055,2B 19:00 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B054,2B 18:25 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B053,2B 17:50 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B052,2B 17:15 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B051,2B 16:40 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B050,2B 16:05 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B049,2B 15:30 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B048,2B 14:55 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B047,2B 14:20 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B046,2B 13:45 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B045,2B 13:10 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B044,2B 12:35 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B043,2B 12:00 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B042,2B 11:25 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B041,2B 10:50 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B040,2B 10:15 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B039,2B 09:40 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B038,2B 09:05 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B037,2B 08:30 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B036,2B 07:55 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B035,2B 07:20 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B034,2B 06:45 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B033,2B 06:10 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B032,2B 05:35 to Mureseni sat
+,1,L02B,FULLW,,Mureseni sat,L02B031,2B 05:00 to Mureseni sat
+,0,L02B,FULLW,,SMURD,L02B030,2B 22:10 to SMURD
+,0,L02B,FULLW,,SMURD,L02B029,2B 21:40 to SMURD
+,0,L02B,FULLW,,SMURD,L02B028,2B 20:45 to SMURD
+,0,L02B,FULLW,,SMURD,L02B027,2B 20:10 to SMURD
+,0,L02B,FULLW,,SMURD,L02B026,2B 19:35 to SMURD
+,0,L02B,FULLW,,SMURD,L02B025,2B 19:00 to SMURD
+,0,L02B,FULLW,,SMURD,L02B024,2B 18:25 to SMURD
+,0,L02B,FULLW,,SMURD,L02B023,2B 17:50 to SMURD
+,0,L02B,FULLW,,SMURD,L02B022,2B 17:15 to SMURD
+,0,L02B,FULLW,,SMURD,L02B021,2B 16:40 to SMURD
+,0,L02B,FULLW,,SMURD,L02B020,2B 16:05 to SMURD
+,0,L02B,FULLW,,SMURD,L02B019,2B 15:30 to SMURD
+,0,L02B,FULLW,,SMURD,L02B018,2B 14:55 to SMURD
+,0,L02B,FULLW,,SMURD,L02B017,2B 14:20 to SMURD
+,0,L02B,FULLW,,SMURD,L02B016,2B 13:45 to SMURD
+,0,L02B,FULLW,,SMURD,L02B015,2B 13:10 to SMURD
+,0,L02B,FULLW,,SMURD,L02B014,2B 12:35 to SMURD
+,0,L02B,FULLW,,SMURD,L02B013,2B 12:00 to SMURD
+,0,L02B,FULLW,,SMURD,L02B012,2B 11:25 to SMURD
+,0,L02B,FULLW,,SMURD,L02B011,2B 10:50 to SMURD
+,0,L02B,FULLW,,SMURD,L02B010,2B 10:15 to SMURD
+,0,L02B,FULLW,,SMURD,L02B009,2B 09:40 to SMURD
+,0,L02B,FULLW,,SMURD,L02B008,2B 09:05 to SMURD
+,0,L02B,FULLW,,SMURD,L02B007,2B 08:30 to SMURD
+,0,L02B,FULLW,,SMURD,L02B006,2B 07:55 to SMURD
+,0,L02B,FULLW,,SMURD,L02B005,2B 07:20 to SMURD
+,0,L02B,FULLW,,SMURD,L02B004,2B 06:45 to SMURD
+,0,L02B,FULLW,,SMURD,L02B003,2B 06:10 to SMURD
+,0,L02B,FULLW,,SMURD,L02B002,2B 05:35 to SMURD
+,0,L02B,FULLW,,SMURD,L02B001,2B 05:00 to SMURD

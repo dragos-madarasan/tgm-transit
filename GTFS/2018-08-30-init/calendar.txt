@@ -1,0 +1,3 @@
+end_date,friday,monday,saturday,service_id,start_date,sunday,thursday,tuesday,wednesday
+20181231,1,1,1,FULLW,20100101,1,1,1,1
+20181231,0,0,1,WE,20100101,1,0,0,0
